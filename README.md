@@ -12,6 +12,9 @@ Web accessibility is an increasingly important consideration for businesses. Mak
 The following image shows the web application's appearance and functionality:
 ![Screenshot-Not-Found](assets/images/Screenshot-website.png)
 
+https://github.com/ambika-ks/Code-Refactor/blob/main/assets/images/Screenshot-Website.png
+
+
 ## Credits
 N/A
 
