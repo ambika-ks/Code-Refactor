@@ -11,6 +11,7 @@ Web accessibility is an increasingly important consideration for businesses. Mak
 
 The following image shows the web application's appearance and functionality:
 ![Screenshot-Not-Found](assets/images/Screenshot-website.png)
+Screenshot-Website.png
 
 ## Credits
 N/A
